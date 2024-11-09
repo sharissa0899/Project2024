@@ -1,0 +1,35 @@
+SPC is physically closed until Wednesday; however, I will be loading a module, with content, and a video that gets you started in ASPNET Core.
+
+If you want to get started right away: install VSCode (DO NOT USE VISUAL STUDIO), install the latest .NET SDK, and install EntityFramework Core. 
+
+James
+
+
+Good Evening,
+
+I have now loaded some modules for you all. You should watch them and follow along and make sure you are comfortable with all the technology we are using. I've set up a question forum for you to post anything tech related-if you had a problem and you think someone else might had the same problem-post your solution to the forum. 
+
+For this class I am going to load one drop box which will be for your project and the only thing graded. Your grade will be based on effort-I am not expecting a perfect implementation of this technology. I am expecting that you learn something. I'll give you some idea of the things you can do as I release content, but creative freedom is in your hands. 
+
+If you watch the third video I cover some github actions. I highly recommend you create a repository for your final project and make it public. If you drop that link in the dropbox, then that is a valid submission for your final, provided you keep updating your repository.
+
+I am going to do my best to put out as much content towards the front of the course as possible, that way any issues should have ample time to be dealt with towards the end of the course.   
+
+highly recommend you create a repository for your final project and make it public. If you drop that link in the dropbox, then that is a valid submission for your final, provided you keep updating your repository.
+
+
+Getting Started 
+
+
+Download 
+1. Visual Studio Code 
+Install Extensions for extensions on the right hand side 
+2. Install - C# DEV KIT 8.0  for Visual Studio + .NET Install Tool and C# comes with the Dev Lit  
+3.Dowload 
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.403-windows-x64-installer
+
+
+
+
+
+
