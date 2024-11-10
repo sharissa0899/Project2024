@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj": {}
+    "c:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj": {
+    "c:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "c:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "c:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\shari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\obj\\",
+        "outputPath": "c:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shari\\AppData\\Roaming\\NuGet\\NuGet.Config",

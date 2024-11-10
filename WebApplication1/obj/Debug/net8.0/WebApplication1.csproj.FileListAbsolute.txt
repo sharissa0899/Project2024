@@ -28,3 +28,4 @@ c:\Users\shari\OneDrive\Desktop\ASP.NET CORE MVC\WebApplication1\obj\Debug\net8.
 c:\Users\shari\OneDrive\Desktop\ASP.NET CORE MVC\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 c:\Users\shari\OneDrive\Desktop\ASP.NET CORE MVC\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 c:\Users\shari\OneDrive\Desktop\ASP.NET CORE MVC\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+c:\Users\shari\OneDrive\Desktop\ASP.NET CORE MVC\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
