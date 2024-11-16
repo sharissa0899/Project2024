@@ -2,7 +2,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+// add connection string 
+builder.Services.AddDbContext<BasicDBContext>(options =>options.UseSqlite(builder.Configruation.GetConnectionString("BasicMVCContextString"))
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

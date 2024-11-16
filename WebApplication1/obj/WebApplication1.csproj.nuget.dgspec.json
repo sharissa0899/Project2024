@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "c:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\shari\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\shari\\OneDrive\\Desktop\\ASP.NET CORE MVC\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
