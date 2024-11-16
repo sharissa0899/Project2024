@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ContosoUniversity2/1.0.0": {
+        "runtime": {
+          "ContosoUniversity2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContosoUniversity2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

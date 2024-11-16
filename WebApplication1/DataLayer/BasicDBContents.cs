@@ -2,13 +2,14 @@ using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Microsoft.Net.Http.Headers;
+using WebApplication1.Models;
 
-namespace WebApplication1.DataLayer
-{
-    //create a object 
+
+namespace WebApplication1.DataLayer{
+//create a object that handles the sqlite database
 public class BasicDBContext : DbContext {
-//add data to a database
-public DbSet<Message> messages {get;set;} -null!;
+//allows users to add data to a database/table
+public DbSet<Message> messages {get;set;} = null!;
 
 //inheritance set content options 
 //constror passing an object = BasicDBcontent type 
@@ -16,16 +17,20 @@ public DbSet<Message> messages {get;set;} -null!;
     {
 
     }
-protected override void OneModelCreating(ModelBulider modelBulider)
-{
-    base.OneModelCreating{modelBuilder};
-    modelBulider.EntityFrameworkCore<Messages>().HasData (
-new Message {MessageID - 1, MessageText"message one"},
-new Message {MessageID - 2, MessageText-"message two"}
-    ) ;
 
-};
-    
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+{
+     base.OnModelCreating(modelBuilder);
+     
+     modelBuilder.Entity<Message>().HasData(
+
+    new Message {MessageID =1, MessageText = " I am leanring "},
+    new Message {MessageID =2, MessageText = " I am learning, and it is painful! "}
+
+
+     );
+
+}
 }
 }
 

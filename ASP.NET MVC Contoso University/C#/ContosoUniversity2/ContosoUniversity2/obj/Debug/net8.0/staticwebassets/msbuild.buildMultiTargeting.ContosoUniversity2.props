@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ContosoUniversity2.props" />
+</Project>
